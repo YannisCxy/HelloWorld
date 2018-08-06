@@ -4,7 +4,7 @@ import com.sun.org.apache.xml.internal.utils.StringBufferPool;
 
 /**
  * @author Yannic
- * @version ${VERSION}
+ * @version 1.0
  * @description com.helloworld
  * @date 2018/8/3
  */
